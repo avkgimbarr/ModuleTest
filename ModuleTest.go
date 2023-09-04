@@ -1,6 +1,6 @@
 package ModuleTest
 
-var separator1 = "\" + "
-var separator2 = "\" - "
-var separator3 = "\" * "
-var separator4 = "\" / "
+var Separator1 = "\" + "
+var Separator2 = "\" - "
+var Separator3 = "\" * "
+var Separator4 = "\" / "
